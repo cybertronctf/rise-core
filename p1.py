@@ -1,1 +1,1 @@
-print("rise-core INSERT")
+print("rise-core UPDATE")
