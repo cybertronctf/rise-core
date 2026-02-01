@@ -1,1 +1,1 @@
-print("rise-core FINAL")
+print("rise-core FINAL FIX")
