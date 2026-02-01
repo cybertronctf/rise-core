@@ -1,1 +1,1 @@
-print("rise-core REINSERT")
+print("rise-core UPDATE2")
