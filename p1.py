@@ -1,1 +1,1 @@
-print("rise-core UPDATE2")
+print("rise-core FIX2")
